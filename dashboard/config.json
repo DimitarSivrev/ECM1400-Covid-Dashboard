@@ -1,0 +1,25 @@
+{
+"News-API":{
+    "api_key" : "7ae699a798ac44d9b7f3665d19fe621a",
+    "base_url" : "https://newsapi.org/v2/everything?",
+    "covid_terms" : "Covid COVID-19 coronavirus"
+},
+
+"Covid-API":{
+    "location" : "Exeter",
+    "location_type" : "ltla",
+    "country" : "England",
+    "country_type" : "nation"
+
+},
+
+"Interface":{
+    "title" : "Daily update"
+},
+
+"Files":{
+    "csv_file" : "nation_2021-10-28.csv"
+}
+
+}
+
